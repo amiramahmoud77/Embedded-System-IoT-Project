@@ -1,0 +1,12 @@
+# Ignore compiled files 
+*.hex 
+*.elf 
+*.eep 
+*.bin 
+ECHO is on.
+# Ignore backup files 
+Project Backups/ 
+ECHO is on.
+# Ignore large files 
+*.mp4 
+*.avi 
